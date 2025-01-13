@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Lost capacity of the weighted k-out-of-n system with
+  discrete components
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Agnieszka
+    family-names: Goroncy
+    email: gemini@mat.umk.pl
+    affiliation: Nicolaus Copernicus University
+    orcid: 'https://orcid.org/0000-0002-3288-1530'
+repository-code: >-
+  https://github.com/goroncya/Lost-capacity-of-the-weighted-k-out-of-n-system-with-discrete-components
+abstract: >-
+  This project concerns the reliability weighted k-out-of-n
+  system with component lifetimes modelled by the IID
+  geometrically distributed random variables. Each component
+  has a positive integer-valued weight assigned interpreted
+  as its total capacity. The system is in a working state if
+  the accumulated weights of all working components are at
+  least k. The primary focus is the capacity lost by the
+  system upon its failure, for which we derive the
+  probability mass function. 
+keywords:
+  - weighted k-out-of-n system
+  - capacity loss
+  - reliability
+license: CC-BY-NC-4.0
+version: 1.0.0
+date-released: '2025-01-13'
