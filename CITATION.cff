@@ -3,8 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Lost capacity of the weighted k-out-of-n system with
-  discrete components
+  ProbLostCapacity
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -16,7 +15,7 @@ authors:
     affiliation: Nicolaus Copernicus University
     orcid: 'https://orcid.org/0000-0002-3288-1530'
 repository-code: >-
-  https://github.com/goroncya/Lost-capacity-of-the-weighted-k-out-of-n-system-with-discrete-components
+  https://github.com/goroncya/ProbLostCapacity
 abstract: >-
   This project concerns the reliability weighted k-out-of-n
   system with component lifetimes modelled by the IID
